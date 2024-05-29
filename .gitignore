@@ -1,1 +1,8 @@
 node_modules/
+
+
+    // npm init
+    // instalamos el json server
+    // usamos el script start en package.json
+    // instalamos la dependencia = npm i json-server
+    // Creamos el db.json y creamos el .gitIgnore
