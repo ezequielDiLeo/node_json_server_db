@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Ezequiel",
+      "apellido": "Di Leo",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "2208"
+    },
+    {
+      "id": "da42",
+      "nombre": "Lucas",
+      "apellido": "Developer",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Fisica"
+        },
+        {
+          "nombre": "fisico-quimica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodiriguez",
+      "promedio": 8.2,
+      "id": "81cf"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "d93d"
+    },
+    {
+      "id": "b48d",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "81fa"
+    },
+    {
+      "nombre": "ReactJS",
+      "duracion": 6,
+      "dificultad": "intermedia",
+      "id": "ded6"
+    },
+    {
+      "nombre": "Javascript",
+      "duracion": 9,
+      "dificultad": "alta",
+      "id": "f5b5"
+    }
+  ]
+}
